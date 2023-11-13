@@ -1,11 +1,54 @@
-body
-{
-    background-color: floralwhite;
-}
-ul {
-    list-style-type: none;
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
     margin: 0;
     padding: 0;
-    background-color: grey;
-    display: flex;
+}
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.header {
+    text-align: center;
+}
+
+.profile-img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 20px auto;
+}
+
+.about-me {
+    text-align: justify;
+    line-height: 1.6;
+}
+
+.social-links {
+    margin-top: 20px;
+}
+
+    .social-links a {
+        display: inline-block;
+        margin-right: 10px;
+        color: #333;
+        text-decoration: none;
+    }
+
+    .social-links i {
+        font-size: 24px;
+    }
+
+.footer {
+    margin-top: 20px;
+    text-align: center;
+    color: #888;
 }
