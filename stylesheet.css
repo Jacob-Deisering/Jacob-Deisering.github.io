@@ -9,7 +9,7 @@ body {
     width: 50%;
     max-width: 800px;
     margin: 50px auto;
-    background-color: darkslategrey;
+    background-color: darkgreen;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
@@ -18,6 +18,8 @@ color: white;
 
 .header {
     text-align: center;
+margin-bottom: 20px;
+background-color: palegreen;
 }
 
 .profile-img {
@@ -55,7 +57,7 @@ color: white;
 }
 
 nav {
-    background-color: lightgray;
+  background-color: seagreen;
     color: black;
 }
 
