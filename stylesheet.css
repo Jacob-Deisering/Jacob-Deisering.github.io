@@ -54,7 +54,8 @@ body {
 }
 
 nav {
-    background-color: lightskyblue; /* Change the background color as needed */
+    background-color: lightgray;
+    color: white;
 }
 
     nav ul {
