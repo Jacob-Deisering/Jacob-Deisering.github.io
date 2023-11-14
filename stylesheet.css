@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
+    background-color: whitesmoke;
     margin: 0;
     padding: 0;
 }
@@ -9,7 +9,7 @@ body {
     width: 50%;
     max-width: 800px;
     margin: 50px auto;
-    background-color: darkgreen;
+    background-color: navajowhite;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
@@ -19,7 +19,7 @@ color: white;
 .header {
     text-align: center;
 margin-bottom: 20px;
-background-color: palegreen;
+background-color: navajowhite;
 }
 
 .profile-img {
@@ -57,7 +57,7 @@ background-color: palegreen;
 }
 
 nav {
-  background-color: seagreen;
+  background-color: navajowhite;
     color: black;
 }
 
